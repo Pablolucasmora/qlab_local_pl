@@ -16,7 +16,9 @@ This repository contains implementations of option pricing models and trading st
 # Trading Strategies
 **The Trading Strategies folder contains a frame to test strategies using different indicators and plotting the returns:**
 
-- **Moving Average Crossovers** (MA)
+- **Moving Average** (MA)
+
+- **Moving Average Crossovers** (MA_Crossovers)
 
 - **Relative Strength Index** (RSI)
 
