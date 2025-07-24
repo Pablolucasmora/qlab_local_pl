@@ -13,6 +13,12 @@ This repository contains implementations of option pricing models and trading st
 
 - **American Options:** Allows early exercise decision at each node.
 
+**It also includes:**
+
+- **Volatility Calculation:** Of course an approximation
+
+- **Random Walk and LogNormal Random Walk:** Plotted next to a stock price to notice the similarities (it is not a prediction)
+
 # Trading Strategies
 **The Trading Strategies folder contains a frame to test strategies using different indicators and plotting the returns:**
 
