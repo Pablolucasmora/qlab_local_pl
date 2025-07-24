@@ -26,13 +26,13 @@ This repository contains implementations of option pricing models and trading st
 
 - **Money Flow Index** (MFI)
 
-Feel free to change any parameters and experiment with your own strategies.
+Feel free to change any parameters or combine different indicators to experiment with your own strategies.
 
 # Installation
 **For options pricing:**
 - Just execute and introduce the parameters
 
 **For trading:**
-- **Clone the repository**
+- **Clone the repository** git clone https://github.com/SalvaColl/quant
 - **Create a virtual environment** (recommended)
-- **Install numpy, pandas, matplotlib** and **yfinance**
+- **Install dependencies** pip install -r requirements.txt
